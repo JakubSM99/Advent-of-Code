@@ -1,4 +1,4 @@
-with open('C:/Users/Jakub/Documents/GitHub/Advent-of-Code-2021/Advent_2022/Day_01/Part_01/Test_input.txt', 'r') as f:
+with open('C:/Users/Jakub/Documents/GitHub/Advent-of-Code-2021/Advent_2022/Day_01/Part_02/Test_input.txt', 'r') as f:
 
     my_list = []
     Sums = []
